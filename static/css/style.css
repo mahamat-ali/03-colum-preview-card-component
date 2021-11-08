@@ -35,14 +35,14 @@ body{
 
 .column-1{
   background-color:  hsl(31, 77%, 52%);
-  border-radius: 10px 0 0 10px;
+  border-radius: 6px 0 0 6px;
 }
 .column-2{
   background-color:  hsl(184, 100%, 22%);
 }
 .column-3{
   background-color: hsl(179, 100%, 13%);
-   border-radius: 0 10px 10px 0;
+   border-radius: 0 6px 6px 0;
 }
 
 /* fdfdfd */
@@ -129,11 +129,11 @@ p{
   }
 
   .column-1{
-    border-radius: 10px 10px 0 0;
+    border-radius: 6px 6px 0 0;
   }
   
   .column-3{
-    border-radius: 0 0 10px 10px;
+    border-radius: 0 0 6px 6px;
   }
   p{
      margin-bottom: 30px;
